@@ -83,9 +83,9 @@ education:
           - Bullet point
 
 workexperiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Sales Associate
+      time: November 2009 - Present
+      company: Macy's, New York
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,8 +97,13 @@ workexperiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Assist customers with their inquiries
+          - Provide support in mattress department regarding basic computer setups
+          - Handling of money
+          - Commission and Big Ticket selling experience
+          - Upselling consumers in commission based environment
+          - Social interaction to enhance shopping experience for consumers
+          - Initiate conversation to ensure consumer find the right item(s) they need
 
     - role: Senior Software Engineer
       time: 2014 - 2015
