@@ -134,9 +134,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PAEK (2014)
+        link: "https://play.google.com/store/apps/details?id=com.ayysir.paek"
+        tagline: "PAEK Updater let's you update ParanoidAndroid Enhanced Kernel"
 
       - title: DevStudio
         link: "#"
