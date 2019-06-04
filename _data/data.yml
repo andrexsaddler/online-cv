@@ -99,9 +99,7 @@ devexperiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
 
     assignments:
       - title: PAEK (2014)
@@ -125,7 +123,7 @@ skills:
       - name: HTML & CSS
         level: 70%
 
-      - name: linux/Unix
+      - name: Linux/Unix
         level: 85%
 
       - name: C/C++
