@@ -99,7 +99,7 @@ devexperiences:
 projects:
     title: Projects
     intro: >
-      
+
 
     assignments:
       - title: PAEK (2014)
@@ -117,10 +117,10 @@ skills:
       - name: Python
         level: 25%
 
-      - name: Javascript & jQuery
+      - name: Javascript/jQuery
         level: 15%
 
-      - name: HTML & CSS
+      - name: HTML/CSS
         level: 70%
 
       - name: Linux/Unix
@@ -128,3 +128,9 @@ skills:
 
       - name: C/C++
         level: 50%
+
+      - name: Java
+        level: 35%
+
+      - name: Kotlin
+        level: 15%
