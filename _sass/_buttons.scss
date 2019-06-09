@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC);
+
+@mixin button-bg($bg) {
+  background: $bg;
+  &:hover {
+    background:darken($bg,10%);
+    transition: all 0.3s ease;
+  }
+  &:active {
+    background:darken($bg,25%);
+  }
+}
+
+.btn {
+ color:white;
+ text-decoration:none;
+ padding:5px 10px;
+ border-radius:5px;
+ font-family: 'Noto Sans TC', sans-serif;
+ font-size:1.2em;
+}
+
+.btn-lgtcrimson{
+   @include button-bg(#b74c4c);
+  }
+
+/*Other Stylez*/
+.wrap {
+   padding-bottom: 25px;
+}
+
+h1 {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size:1.2em;
+}
