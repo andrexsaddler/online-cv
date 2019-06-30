@@ -110,6 +110,15 @@ projects:
       - title: ParanoidAndroid
         link: "http://www.aospa.co/team"
 
+certifications:
+    title: Certifications
+    intro: >
+
+
+    assignments:
+      - title: Microsoft Office Specialist Word 2013
+        link: "https://raw.githubusercontent.com/andrexsaddler/online-cv/ed92cf0315f456fc0839bbb74a82e921c1e13a8b/assets/images/Word_specialist_badge.jpg"
+
 
 skills:
     title: Skills &amp; Proficiency
